@@ -1,2 +1,2 @@
-# SEELA-RUPESH
+# About me
 My personal repository.
